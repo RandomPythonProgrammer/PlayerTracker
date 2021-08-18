@@ -1,0 +1,5 @@
+main: com.jchen.playertracker.Main
+name: PlayerTracker
+version: 1.0
+author: JChen
+api-version: 1.17
